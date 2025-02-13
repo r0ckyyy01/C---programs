@@ -1,3 +1,12 @@
+/*
+Area of triangle and rectangle assignment
+
+Author: John Roy Mureithi
+Reg No: BSE-05-0204/2024
+Date: 13/2/2025
+Version 1
+*/
+
 #include <iostream>
 #include <cmath> // for mathematical functions
 using namespace std;
