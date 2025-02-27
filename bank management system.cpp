@@ -1,5 +1,5 @@
 /*
-Library Management System
+Bank Management System
 
 Author: John Roy Mureithi
 Reg No: BSE-05-0204/2024
